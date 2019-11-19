@@ -1,2 +1,1 @@
 # baseProject
-MIGUEL NAVA SALINAS
